@@ -13,11 +13,11 @@ This is a simple concept of Landing page made for a Planned Forniture company
 </p>
 
 <p align="center">
-  <img alt="Original Layout Concept" src=".github/preview.jpg" widht="100%">
+  <img alt="Original Layout Concept" src="https://imagizer.imageshack.com/v2/1280x720q70/924/3b7Oma.jpg" widht="100%">
 </p>
 
 <p align="center">
-  <img alt="My Layout Concept" src=".github/My-Layout.png" widht="100%">
+  <img alt="My Layout Concept" src="https://imagizer.imageshack.com/v2/1189x669q70/924/hzWA5B.png" widht="100%">
 </p>
 
 ## 🚀 Technologies
