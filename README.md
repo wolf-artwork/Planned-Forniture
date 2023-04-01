@@ -2,7 +2,7 @@
 
 <p align="center">
 This is a simple concept of Landing page made for a Planned Forniture company
-<br> This structure was based on <a href"https://github.com/maykbrito" target"_blank"> maykbrito </a> free lesson on Rocketseat plataform.</br>
+<br> This structure was based on <a href"https://github.com/maykbrito" target"_blank"> maykbrito </a> Exclusive lesson on Rocketseat plataform for Explorer students.</br>
 </p>
 
 <p align="center">
