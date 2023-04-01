@@ -12,11 +12,11 @@ This is a simple concept of Landing page made for a Planned Forniture company
   <a href="#memo-licença">Licence</a>
 </p>
 
-<p align="center">
+<p align="center"> Original Layout
   <img alt="Original Layout Concept" src="https://imagizer.imageshack.com/v2/1280x720q70/924/3b7Oma.jpg" widht="100%">
 </p>
 
-<p align="center">
+<p align="center"> My Layout
   <img alt="My Layout Concept" src="https://imagizer.imageshack.com/v2/1189x669q70/924/hzWA5B.png" widht="100%">
 </p>
 
