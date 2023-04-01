@@ -31,7 +31,7 @@ This project was developed with the follow technologies:
 
 ## 💻 Project
 
-The purpose of this project is to exercise the technologies used for Web Development pourposes.
+The purpose of this project is to exercise the technologies used and some Web Development ideas.
 
 ## 🔖 Layout
 
