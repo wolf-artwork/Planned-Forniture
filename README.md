@@ -25,7 +25,6 @@ This is a simple concept of Landing page made for a Planned Forniture company
 This project was developed with the follow technologies:
 
 - HTML e CSS
-- JavaScript
 - Git & Github
 - Figma
 
